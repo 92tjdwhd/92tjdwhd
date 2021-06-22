@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/-javaScript-orange?logo=JavaScript&logoColor=white"/></a>
 
 ### Me
-<img src="https://img.shields.io/badge/-Gmail-critical?logo=Gmail&logoColor=white&link=92tjdwhdd@gmail.com"/></a>
+<img src="https://img.shields.io/badge/-Mail-critical?logo=Naver&logoColor=white&link=92tjdwhdd@naver.com"/></a>
 <br/>
 <br/>
 <br/>
