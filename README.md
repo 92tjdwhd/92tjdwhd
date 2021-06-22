@@ -16,12 +16,17 @@
 <img src="https://img.shields.io/badge/-ReactNative-informational?logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-javaScript-orange?logo=JavaScript&logoColor=white"/></a>
 
+### Me
+<img src="https://img.shields.io/badge/-Gmail-critical?logo=Gmail&logoColor=white&link=92tjdwhdd@gmail.com"/></a>
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=92tjdwhd)](https://github.com/92tjdwhd/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%92tjdwhd%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 
 
