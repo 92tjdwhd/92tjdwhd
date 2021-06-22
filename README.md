@@ -1,4 +1,12 @@
-### Hi there 👋
+## Park Seong Jong | 박성종
+
+### Android Delveloper
+:seedling: 성장 하는 개발자 <br/>
+:punch: 책임감 있는 개발자 <br/>
+:family: 사용자를 생각하는 개발자 <br/>
+
+### 기술 스택
+
 
 <!--
 **92tjdwhd/92tjdwhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
