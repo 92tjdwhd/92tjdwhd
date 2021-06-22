@@ -5,7 +5,24 @@
 :punch: 책임감 있는 개발자 <br/>
 :family: 사용자를 생각하는 개발자 <br/>
 
-### 기술 스택
+### Main Tech Stack
+<img src="https://img.shields.io/badge/-Android-green?logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Kotlin-yellow?logo=Kotilin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Java-red?logo=Java&logoColor=white"/></a>
+
+
+### Sub Stack
+<img src="https://img.shields.io/badge/-nodeJs-lightgrey?logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-ReactNative-informational?logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-javaScript-orange?logo=JavaScript&logoColor=white"/></a>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=92tjdwhd)](https://github.com/92tjdwhd/github-readme-stats)
+
 
 
 <!--
