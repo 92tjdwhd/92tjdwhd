@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/-javaScript-orange?logo=JavaScript&logoColor=white"/></a>
 
 ### Me
-<a href="mailto:92tjdwhd@naver.com">
+<a href="https://mail.naver.com/write/popup?srvid=note&to=92tjdwhd@naver.com">
 <img src="https://img.shields.io/badge/-Mail-critical?logo=Naver&logoColor=white&link=https://mail.naver.com/write/popup?srvid=note&to=92tjdwhd@naver.com"/></a>
 <br/>
 <br/>
